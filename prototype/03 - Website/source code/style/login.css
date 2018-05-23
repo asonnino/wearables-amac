@@ -1,0 +1,54 @@
+
+.login table{
+    width: 400px; /* exactly the field's size*/
+}
+
+.login table td.create_account {
+	text-align: left;
+}
+.login table td.create_account a {
+	
+	font-size: small;
+	
+}
+
+.login table td.forgot_password {
+	text-align: right;
+}
+.login table td.forgot_password a {
+	color: black;
+	font-size: small;
+}
+
+.login .remember_me {
+	padding-top: 30px;
+	text-align: center;
+}
+
+
+
+.debug {
+    font-size: smaller;
+}
+
+
+
+input[type="text"] {
+    width: 400px; /* @Override */
+}
+
+input[type="password"] {
+    width: 350px; /* @Override */
+    padding-right: 60px;
+}
+
+input[type="image"] {
+    -webkit-appearance: none;
+    margin-left: -50px;
+    margin-top: -20px;
+    height: 37px;
+    width: 37px;
+
+    position: relative;
+    top: 13px;
+}

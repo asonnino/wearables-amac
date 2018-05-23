@@ -1,0 +1,12 @@
+
+table {
+    margin: auto;
+}
+    
+.button { /* set class .button on td */
+	text-align: center;
+}
+
+.button div { /* set class .button on td */
+	font-size: small;
+}

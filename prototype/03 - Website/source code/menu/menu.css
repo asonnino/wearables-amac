@@ -1,0 +1,51 @@
+.menu ul {
+    font-family: -apple-system, sans-serif;
+    list-style-type: none;
+    margin: -10px;
+    padding: -10px;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.menu li {
+    float: left;
+}
+
+.menu li a {
+    display: block;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-family: "Helvetica Neue";
+    font-weight: 200;
+}
+
+.menu li a:hover { /* Change the link color to #111 (black) on hover */
+    background-color: #111;
+}
+
+.menu .active {
+    background-color: #007AFF;
+}
+
+.menu .home a {
+    color: #000; /* Fallback for older browsers */
+    color: rgba(0, 0, 0, 0);
+    
+    background: url("../images/menu_icon.png") no-repeat; 
+    background-size:43% 64%; 
+    background-position: center;  
+}
+
+.menu .icon a {
+    color: #000; /* Fallback for older browsers */
+    color: rgba(0, 0, 0, 0);
+    
+    background: url("../images/UCL_icon.png") no-repeat; 
+    background-size:100% 100%; 
+    background-position: bottom;  
+}
+
+.menu .item a {
+    color: white;
+}

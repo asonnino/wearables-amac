@@ -9,7 +9,7 @@ While wearable devices, often deprived of operating systems, possess only a smal
 
 A link to a blog post describing this project is available at the following address: [https://www.benthamsgaze.org/2016/11/01/a-privacy-enhancing-architecture-for-secure-wearable-devices/](https://www.benthamsgaze.org/2016/11/01/a-privacy-enhancing-architecture-for-secure-wearable-devices/).
 
-This project is the result of my master thesis at [University College London (UCL)](http://ucl.ac.uk), and is available [here](https://sonnino.com/thesis/UCL%20Master%20Thesis%20-%20Alberto%20Sonnino.pdf). You can also find a presentation of this project [here](https://sonnino.com/presentations/Presentation%20-%20A%20Privacy%20Enhancing%20Architecture%20for%20Secure%20Wearable%20Devices).
+This project is the result of my master thesis at [University College London (UCL)](http://ucl.ac.uk), and is available [here](https://sonnino.com/thesis/UCL%20Master%20Thesis%20-%20Alberto%20Sonnino.pdf). You can also find a presentation of this project [here](https://sonnino.com/presentations/Presentation%20-%20A%20Privacy%20Enhancing%20Architecture%20for%20Secure%20Wearable%20Devices.pdf).
 
 ## License
 [The BSD license](https://opensource.org/licenses/BSD-3-Clause)

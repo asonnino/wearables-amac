@@ -1,0 +1,52 @@
+.edit table {
+	border-spacing: 50px 0;
+}
+
+.edit .field {
+	width: 400px;
+	margin-top: 5px;
+	line-height: 35px;
+	padding: 5px 10px;
+	font-size: 100%;
+
+	border: 1px solid #ccc;
+	border-radius: 5px;
+	background-color: rgba(204,204,204, 0.4);
+
+	font-weight: 600;
+}
+
+.edit .field_edit input[type="text"]{
+	width: 330px;
+}
+
+.edit .field_edit input[type="email"]{
+	width: 330px;
+}
+
+.edit .field_edit input[type="password"]{
+	width: 330px;
+}
+
+.edit .field_edit input[type="submit"]{
+	width: 70px;
+	position: relative;
+	
+}
+
+.edit .password_button input[type="submit"] { 
+	width: 150px;
+}
+.edit .password_button { 
+	text-align: center;		
+}
+
+.edit .field input[type="button"] { /* @Override */
+	float: right;
+	width: 20%;
+	line-height: 30px;
+	font-size: 80%;
+
+	position: relative;
+	bottom: 3px;
+}	

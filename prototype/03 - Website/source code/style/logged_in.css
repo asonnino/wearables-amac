@@ -1,0 +1,55 @@
+	.main .empty_line {
+        padding-bottom: 20px;
+    }
+
+    .main .actions {
+		width: 400px;
+        padding-top: 50px;
+	}
+	.main table .actions a {
+		padding: 10px 20px;
+	}
+
+
+    .main .cred_table {
+        border-top: 1px solid #ddd;
+        border-bottom: 1px solid #ddd;
+        padding: 20px;
+    }
+
+    .main .cred_table th {
+        padding-bottom: 20px;
+        text-align: center;
+    }
+    .main .cred_table .user_th {
+        text-align: left;
+    }
+
+
+    .main .cred_table .attr, .role {
+        text-align: center;
+    }
+    .main .attr ul {
+        list-style: none;
+        padding-left: 75px;
+    }
+    .main .attr li {
+        font-family: "Courier";
+        text-align: left;
+    }
+    .main .cred_table .name {
+        font-weight: bold;
+    }
+    .main .cred_table .email {
+        font-style: italic; 
+        font-size: small;
+    }
+   
+    .main .cred_table .edit_attr {
+        text-align: center;
+   }
+
+    .main .cred_table .edit_attr img {
+        padding: 2px;
+        cursor: pointer;
+   }

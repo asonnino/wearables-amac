@@ -1,0 +1,121 @@
+
+.standard_input {
+    width: 400px;
+    margin-top: 5px;
+
+    line-height: 35px;
+
+    padding: 5px 10px;
+    font-size: 100%;
+
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+::-webkit-input-placeholder {
+   font-size: 70%;
+}
+:-moz-placeholder { /* Firefox 18- */
+   font-size: 70%;
+}
+::-moz-placeholder { /* Firefox 19+ */
+   font-size: 70%;
+}
+:-ms-input-placeholder {  
+   font-size: 70%; 
+}
+
+.small_input {
+    margin-top: 5px;
+
+    line-height: 35px;
+
+    padding: 5px 10px;
+    font-size: 100%;
+
+    border: 1px solid #ccc;
+    border-radius: 5px;
+
+     width: 100px;
+}
+
+
+.standard_button {
+    border: 1px solid rgb(0,122,255);
+    border-radius: 5px;
+    color: white;
+    line-height: 40px;
+    background-color: rgba(0,122,255,0.8);
+    cursor: pointer;
+    font-size: 100%;
+    font-weight: lighter;  
+
+    width: 50%; 
+}
+
+.small_button {
+    border: 1px solid rgb(0,122,255);
+    border-radius: 5px;
+    color: white;
+    line-height: 40px;
+    background-color: rgba(0,122,255,0.8);
+    cursor: pointer;
+    font-size: 100%;
+    font-weight: lighter;
+
+    width: 33%;
+}
+
+
+.pdf_button {
+    border: 1px solid rgb(0,122,255);
+    border-radius: 5px;
+    color: white;
+    background-color: rgba(0,122,255,0.8);
+    cursor: pointer;
+    font-size: 100%;
+    font-weight: lighter;
+
+    width: 25%;
+    text-align: center;
+    padding: 12px 35px;
+
+}
+
+.pdf_button a {
+    color: white;
+}
+
+
+.error_messages {
+    padding-top: 40px;
+    text-align: center;
+    font-size: small;
+    color: red;
+}
+
+
+.form_error_username #user_name {
+    border: 2px solid red;
+}
+.form_error_password input[type=password] {
+    border: 2px solid red;
+}
+.form_error_email input[type=email] {
+    border: 2px solid red;
+}
+.form_error_captcha #captcha {
+     border: 2px solid red;
+}
+
+.form_error #user_name {
+    border: 2px solid red;
+}
+.form_error input[type=password] {
+    border: 2px solid red;
+}
+.form_error input[type=email] {
+    border: 2px solid red;
+}
+.form_error #captcha {
+     border: 2px solid red;
+}
